@@ -1,3 +1,5 @@
+![orvlku](https://cloud.githubusercontent.com/assets/1449653/8321387/11bd5a64-19db-11e5-94fe-26afa075d1c3.jpg)
+
 # Chowder's ENB Config for The Last Remnant
 Most current version: https://github.com/mangosango/TLR-ENB/releases/download/1.0/TLR.ENB.zip
 
